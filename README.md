@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently Studient.
   
-- 🌱 I’m learning, Html, Css, JavaScript
+- 🌱 I’m learning, Html, Css, JavaScript.
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I’m looking to collaborate on Projects.
   
 - ⚡ Fun fact: I like to read romantic novels.
 
